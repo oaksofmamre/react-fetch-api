@@ -1,2 +1,13 @@
 # react-fetch-api
-Using React and fetch to interact with APIs
+
+Using fetch() to interact with APIs in React
+
+## Usage
+
+From command-line:
+
+```
+npm start
+```
+
+:coffee:
